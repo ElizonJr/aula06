@@ -1,0 +1,27 @@
+img
+{
+    width: 100px;
+    height:100px;
+}
+
+body
+{
+    background-color: cornflowerblue;
+    border: 10px solid red;
+    height: 100vh;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    margin: 100px;
+    color: chartreuse;
+}
+
+p
+{
+    color: white;
+}
+section
+{
+    background-color: aqua;
+    color: rgb(6, 6, 6 );
+}
